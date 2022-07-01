@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(233, 16, 52);
+    
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    
+    
+}
+
+nav{
+    position: sticky;
+    top: 0;
+    background-color: black;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+a{
+    color: whitesmoke;
+    padding-right: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+h2{
+    padding-left: 60px;
+    padding-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    padding-left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
